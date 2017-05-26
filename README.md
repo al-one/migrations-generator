@@ -8,6 +8,8 @@
 
 Generate Laravel Migrations from an existing database, including indexes and foreign keys!
 
+> Forked from [Xethron/migrations-generator](https://github.com/al-one/migrations-generator) and fix some bugs.
+
 ## Upgrading to Laravel 5.4
 
 Please note that the Laravel 4 Generator edits have been moved to `https://github.com/xethron/Laravel-4-Generators.git` to update compatibility.
